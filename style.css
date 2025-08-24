@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    /*border: 1px solid red;*/
+    padding: 10px;
+    background-color: rgb(182, 100, 230);
+}
+.logo a{
+    text-decoration: none;
+    color: rgb(255, 251, 251);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.menu {
+    display: flex;
+    list-style: none;
+
+}
+
+.menu li {
+    margin-left: 10px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: rgb(255, 251, 251);
+}
+
+.banner {
+    background-color: rgb(248, 206, 248);
+    color: rgb(52, 10, 76);
+    height: 400px;
+    display: flex;
+    justify-content: center;   
+    align-items: center;   
+    font-family: 'Prompt', 'Segoe UI', sans-serif; 
+    font-size: 20px;   
+   
+}
+
+
+
+
+
+.banner img {
+    text-align: left;
+    display: flex;
+    border-radius: 10px;
+}
+
+main {
+    background-color: azure;
+}
+  
+
+
+
+.box{
+    border: 3px dashed #007acc;
+  padding: 20px;
+  background-color: rgb(252, 222, 252);
+  border-radius: 0px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  margin: 40px;
+  font-size: 20px;
+  font-family: 'Prompt', 'Segoe UI', sans-serif;
+  color: rgb(37, 6, 54);
+  
+  
+}
+.box2{
+    border: 3px dashed #007acc;
+  padding: 20px;
+  background-color: rgb(252, 222, 252);
+  border-radius: 0px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  margin: 40px;
+  font-size: 20px;
+  font-family: 'Prompt', 'Segoe UI', sans-serif;
+  color: rgb(37, 6, 54);
+  
+  
+}
+.box3{
+    border: 3px dashed #007acc;
+  padding: 20px;
+  background-color: rgb(252, 222, 252);
+  border-radius: 0px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  margin: 40px;
+  font-size: 20px;
+  font-family: 'Prompt', 'Segoe UI', sans-serif;
+  color: rgb(37, 6, 54);
+  
+  
+}
+.box4{
+    border: 3px dashed #007acc;
+  padding: 20px;
+  background-color: rgb(252, 222, 252);
+  border-radius: 0px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  margin: 40px;
+  font-size: 20px;
+  font-family: 'Prompt', 'Segoe UI', sans-serif;
+  color: rgb(37, 6, 54);
+  
+
+
+  
+  
+}
+
+.box4-info  {
+    width: 15%;
+    aspect-ratio: 4/3;
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+    margin: 40px;
+
+}
+
+
+
+
+
+
+
+    
+    
+
+
